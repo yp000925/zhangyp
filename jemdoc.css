@@ -365,3 +365,16 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.logo-row {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 40px;
+	margin-top: 20px;
+}
+
+.logo-row img {
+	width: 100px; /* Standard size for logos */
+	height: auto; /* Maintain aspect ratio */
+}
