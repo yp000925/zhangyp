@@ -378,3 +378,12 @@ table.imgtable, table.imgtable td {
 	width: 100px; /* Standard size for logos */
 	height: auto; /* Maintain aspect ratio */
 }
+
+.awards-list {
+	margin-top: 20px;
+	padding-left: 20px;
+}
+
+.awards-list li {
+	margin-bottom: 10px; /* Add spacing between list items */
+}
